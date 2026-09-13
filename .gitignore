@@ -1,0 +1,16 @@
+.gradle
+.idea
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+*.jar
+*.log
+*.jks
+*.keystore
+local.properties
+google-services.json
+.DS_Store
+build/
+out/
