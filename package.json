@@ -1,0 +1,5 @@
+{
+  "name": "my-soisyl-backend-example",
+  "private": true,
+  "dependencies": { "express": "^4.21.2" }
+}
